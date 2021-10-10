@@ -15,7 +15,7 @@ This is the version on my laptop:
 
 github clone https://github.com/timuy/interview-assessment-master
 
-2. Run docker
+2. Go to the local directory where docker-compose.yml is and run docker
 
 docker-compose up
 
